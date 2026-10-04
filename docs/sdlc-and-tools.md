@@ -1,3 +1,5 @@
+#Ejercicio 02 - cs0352
+
 # SDLC y Stack Tecnológico del Proyecto
 
 ## Metodología de Trabajo
