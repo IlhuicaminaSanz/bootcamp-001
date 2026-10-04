@@ -21,3 +21,4 @@ Este repositorio contiene la estructura unificada para la gestión del sistema h
 2. Levantar la infraestructura local (Kong, PostgreSQL, Keycloak) con `docker-compose up -d`.
 3. Compilar el proyecto completo ejecutando `mvn clean install`.
 
+Prueba de CS0352
